@@ -19,9 +19,9 @@ package api
 import (
 	"net/http"
 	"encoding/json"
-	"parsing-service/lib"
+	"analytics-parser/lib"
 	"github.com/gorilla/mux"
-	"parsing-service/parser"
+	"analytics-parser/parser"
 	"fmt"
 )
 

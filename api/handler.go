@@ -22,9 +22,9 @@ import (
 	"log"
 	"net/http"
 	"github.com/rs/cors"
-	"parsing-service/lib"
-	"parsing-service/flows-api"
-	"parsing-service/operator-api"
+	"analytics-parser/lib"
+	"analytics-parser/flows-api"
+	"analytics-parser/operator-api"
 )
 
 func CreateServer(){

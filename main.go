@@ -20,7 +20,7 @@ import (
 	"log"
 	"github.com/joho/godotenv"
 	"fmt"
-	"parsing-service/api"
+	"analytics-parser/api"
 )
 
 func main() {

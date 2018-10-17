@@ -17,8 +17,8 @@
 package lib
 
 import (
-	"parsing-service/flows-api"
-	"parsing-service/operator-api"
+	"analytics-parser/flows-api"
+	"analytics-parser/operator-api"
 )
 
 type FlowApiService interface {

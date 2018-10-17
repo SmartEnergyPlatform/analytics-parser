@@ -17,8 +17,8 @@
 package parser
 
 import (
-	"parsing-service/lib"
-	"parsing-service/flows-api"
+	"analytics-parser/lib"
+	"analytics-parser/flows-api"
 	"fmt"
 	"strconv"
 )
